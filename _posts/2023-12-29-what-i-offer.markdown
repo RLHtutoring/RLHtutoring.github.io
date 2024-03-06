@@ -2,7 +2,7 @@
 layout: default
 modal-id: 2
 date: 2023-12-29
-img: WhatIofferToo.png
+img: photo of student 2.JPG
 alt: image-alt
 project-date: December 2023
 client: ""
