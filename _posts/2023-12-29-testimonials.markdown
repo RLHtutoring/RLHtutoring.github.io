@@ -7,7 +7,7 @@ alt: image-alt
 project-date: December 2024
 client: ""
 category: Testimonials
-description: <p> <h3>What parents think</h3> </p> <br> <p> <p> "Do it…. Worth every penny"</p> <br> Jon <br> July 2023. <br> <br> <p> "Rachel is friendly and approachable, great communication and honest feedback, putting parents and their children at ease, at what can be a stressful time. Also has a good understanding that working with teenagers isn’t always easy, but remains calm and considerate of their individual needs, allowing them to talk honestly about their studies. If you are looking for a tutor, get in touch with Rachel, she will have a positive impact on your child." </p>
+description: <p> <h3> What parents think </h3> </p> <br> <p> <p> "Do it…. Worth every penny"</p> <br> Jon <br> July 2023. <br> <br> <p> "Rachel is friendly and approachable, great communication and honest feedback, putting parents and their children at ease, at what can be a stressful time. Also has a good understanding that working with teenagers isn’t always easy, but remains calm and considerate of their individual needs, allowing them to talk honestly about their studies. If you are looking for a tutor, get in touch with Rachel, she will have a positive impact on your child." </p>
 
 
 
